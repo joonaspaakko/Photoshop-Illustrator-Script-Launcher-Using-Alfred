@@ -1,6 +1,6 @@
 # Photoshop & Illustrator Script Launcher (Alfred Workflow)
 
-![](workflow-example.png)
+![](workflow.png)
 
 This workflow uses Alfred's built in `File filter` input and as such I haven't actually done much to put together this workflow. This is more just a wake-up call to anyone who isn't doing this.
 

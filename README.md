@@ -8,8 +8,8 @@ This workflow uses Alfred's built in `File filter` input and as such I haven't a
 
 1. Open Alfred (I use `Ctrl+Space`)
 2. Type in `.ps` or `.ai` and after that any following characters you type in does a fuzzy search for `.js` and `.jsx` files in the specified scopes.
-3. Pressing `Enter` will open the file
-		- Cmd+Enter will open the file in Finder.
+3. Pressing `Enter` will open the file and trigger the script.
+   - `Cmd+Enter` will show the file in Finder.
 
 ## Photoshop Example
 

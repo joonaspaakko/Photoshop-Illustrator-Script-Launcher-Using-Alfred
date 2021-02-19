@@ -13,13 +13,13 @@ This workflow uses Alfred's built in `File filter` input and as such I haven't a
 
 ## Photoshop Example
 
-[Link to gif](https://github.com/joonaspaakko/Photoshop-Illustrator-Script-Launcher-Using-Alfred/blob/master/photoshop-example.gif?raw=true)
-![](https://github.com/joonaspaakko/Photoshop-Illustrator-Script-Launcher-Using-Alfred/blob/master/photoshop-example.gif)
+[Link to gif](https://github.com/joonaspaakko/Photoshop-Illustrator-Script-Launcher-Using-Alfred/blob/master/photoshop-example-new.gif?raw=true)
+![](https://github.com/joonaspaakko/Photoshop-Illustrator-Script-Launcher-Using-Alfred/blob/master/photoshop-example-new.gif)
 
 ## Illustator Example
 
-[Link to gif](https://github.com/joonaspaakko/Photoshop-Illustrator-Script-Launcher-Using-Alfred/blob/master/illustrator-example.gif?raw=true)
-![](https://github.com/joonaspaakko/Photoshop-Illustrator-Script-Launcher-Using-Alfred/blob/master/illustrator-example.gif)
+[Link to gif](https://github.com/joonaspaakko/Photoshop-Illustrator-Script-Launcher-Using-Alfred/blob/master/illustrator-example-new.gif?raw=true)
+![](https://github.com/joonaspaakko/Photoshop-Illustrator-Script-Launcher-Using-Alfred/blob/master/illustrator-example-new.gif)
 
 ## Default Scopes for the search
 
